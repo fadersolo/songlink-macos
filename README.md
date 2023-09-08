@@ -3,7 +3,7 @@ Apple script to swap a song (or album) url from your clipboard and replace it wi
 
 # How to install
 
-Download [the script from here](https://github.com/fadersolo/songlink-macos/raw/main/Song.Link.scpt) and place in ~/Library/Scripts. I use it from the Script Menu in the Menubar.
+Download [the script from here](https://github.com/fadersolo/songlink-macos/blob/main/Song.Link.scpt) and place in ~/Library/Scripts. I use it from the Script Menu in the Menubar.
 
 # Examples
 
